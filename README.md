@@ -6,6 +6,6 @@ Currently focused on backend development, cloud infrastructure, and scalable sys
 
 ### 📍 About Me
 - 🎓 B.Sc. in Computing Science @ Simon Fraser University (Graduating Dec 2025)  
-- 💼 Backend Engineer @ ASSEMBLi (Co-founded Startup) — built distributed backend services on AWS
+- 💼 Software Engineer @ ASSEMBLi (Co-founded Startup) — built distributed backend services / mobile frontend
 - 💡 Ex–Software Engineer in Test @ Dayforce — developed enterprise-scale payroll systems  
 - 🌎 Based in Vancouver, Canada | Open to relocation  
