@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### 👋 Hi, I'm Scott (Jusung) Park  
+### 👋 Hi, I'm Jusung Park (Scott Park)
 I'm a software engineer passionate about building reliable, high-impact systems and products that make technology feel effortless.  
 Currently focused on backend development, cloud infrastructure, and scalable system design.
 
